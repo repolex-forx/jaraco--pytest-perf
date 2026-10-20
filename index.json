@@ -1,0 +1,11 @@
+{
+  "org": "jaraco",
+  "repo": "pytest-perf",
+  "versions": [
+    {
+      "commit": "b565f96a8cc1b5d89e996d6ae8eb54b808bc8ac4",
+      "tag": "",
+      "parsed_at": "2026-10-20T10:22:59.653657+00:00"
+    }
+  ]
+}
