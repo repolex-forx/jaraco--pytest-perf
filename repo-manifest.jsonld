@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/jaraco/pytest-perf/commit/b565f96a8cc1b5d89e996d6ae8eb54b808bc8ac4",
       "git:hexsha": "b565f96a8cc1b5d89e996d6ae8eb54b808bc8ac4",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/jaraco/pytest-perf/commit/c452def6ad2938c46beed2abdfb6ea934dda5f92",
