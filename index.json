@@ -3,6 +3,11 @@
   "repo": "pytest-perf",
   "versions": [
     {
+      "commit": "33249c0b401763c8b46fcdde5b3a0e19c00b7029",
+      "tag": "v0.15.0",
+      "parsed_at": "2026-11-22T06:11:23.746933+00:00"
+    },
+    {
       "commit": "b565f96a8cc1b5d89e996d6ae8eb54b808bc8ac4",
       "tag": "",
       "parsed_at": "2026-10-20T10:22:59.653657+00:00"
