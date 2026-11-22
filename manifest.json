@@ -273,7 +273,9 @@
           "githubUrl": "https://github.com/sphinx-contrib/sphinx-lint",
           "source": "build_file:pyproject.toml"
         }
-      ]
+      ],
+      "repolex": "aggregate/repolex/33249c0b401763c8b46fcdde5b3a0e19c00b7029/chunk-001.nq.gz",
+      "dep": "dep/33249c0b401763c8b46fcdde5b3a0e19c00b7029.nq.gz"
     }
   ],
   "commit": "commit/commit.nq.gz",
